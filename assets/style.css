@@ -1,9 +1,7 @@
-
-
 :root{
---text-color: #ffffff;
---card-front-color: #51BBA9;
---card-back-color: #144480;
+--text-color: #000000;
+--card-front-color: #fbff00;
+--card-back-color: #000000;
 }
 
 body {
@@ -65,7 +63,7 @@ transform: rotateY(180deg);
 }
 footer {
 background-color: black;
-color: white;
+color: rgb(0, 0, 0);
 position: fixed;
 bottom: 0;
 width: 100%;
